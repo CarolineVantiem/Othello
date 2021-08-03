@@ -1,8 +1,10 @@
-Grading Detals:
+### Grade: 102/100
+
+Summary:
 I implemented the full Reversi game logic, as well as two player Reversi extra credit.
 
 
-References:
+Sources:
 https://tldp.org/LDP/lkmpg/2.6/html/x569.html
 https://docs.oracle.com/cd/E36784_01/html/E36866/fgoue.html
 https://www.emblogic.com/blog/03/anatomy-of-a-device-driver/
