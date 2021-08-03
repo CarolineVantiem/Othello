@@ -30,9 +30,6 @@ Design/General
 ----------------------------------------------------------------------
 Extra Credit
     - Two human players (2 points)                             : 2
-    - Multiple games (3 points)                                : 
-    - Save/resume functionality (5 points)                     : 
-    - AI implementation (10 points)                            : 
 ----------------------------------------------------------------------
 Penalties, if applicable (see below)                           : 
 ----------------------------------------------------------------------
